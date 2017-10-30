@@ -6,4 +6,4 @@ Adventures in Programming
 - [Machine Learning](https://subhamsarangi.github.io/ml/)
 - [Data Structures & Algorithms](https://subhamsarangi.github.io/Algo_note)
 - [Data Analysis using Python](https://subhamsarangi.github.io/Pdnp)
-- [Financial Programming using Python]((https://subhamsarangi.github.io/Fin)
+- [Financial Programming using Python](https://subhamsarangi.github.io/Fin)
