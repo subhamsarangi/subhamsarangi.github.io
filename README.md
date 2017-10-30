@@ -1,5 +1,4 @@
 # Subham Sarangi
-## subhamsarangi.github.io
 Adventures in Programming
 
 - [Data Visualizations](https://subhamsarangi.github.io/Visualize/)
